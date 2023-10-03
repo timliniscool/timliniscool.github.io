@@ -3,11 +3,11 @@
     "short_name": "zhouflix",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#1f3354",
+    "background_color": "#2b6dd6",
     "lang": "en",
     "scope": "/",
     "description": "The place for your favourite movies & shows",
-    "theme_color": "#1f3354",
+    "theme_color": "#2b6dd6",
     "icons": [
         {
             "src": "android-chrome-192x192.png",

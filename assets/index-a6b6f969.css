@@ -1592,7 +1592,7 @@ video {
 }
 
 .from-denim-100 {
-    --tw-gradient-from: #1f3354 var(--tw-gradient-from-position);
+    --tw-gradient-from: #2b6dd6 var(--tw-gradient-from-position);
     --tw-gradient-from-position: ;
     --tw-gradient-to: rgb(18 15 29 / 0) var(--tw-gradient-from-position);
     --tw-gradient-to-position: ;
@@ -2563,7 +2563,7 @@ input[type=range].styled-slider.slider-progress::-ms-fill-lower {
 }
 
 .group:hover .group-hover\:from-denim-100 {
-    --tw-gradient-from: #1f3354 var(--tw-gradient-from-position);
+    --tw-gradient-from: #2b6dd6 var(--tw-gradient-from-position);
     --tw-gradient-from-position: ;
     --tw-gradient-to: rgb(18 15 29 / 0) var(--tw-gradient-from-position);
     --tw-gradient-to-position: ;
